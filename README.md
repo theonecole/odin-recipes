@@ -1,1 +1,2 @@
 # odin-recipes
+Hello, This is a basic website project focused on recipes that will demonstrate the HTML skills I have learned thus far. These skills include creating headings, paragraphs, links, images, and lists. Thank you!
